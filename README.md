@@ -1,7 +1,4 @@
-![Banner](https://pin.it/1ZEscj8Bu)
-
-### Hi there, I'm [Your Name]!
-
+### Here is about me
 - I’m currently working on: Ubuntu Os Hardining Tool.
 - I’m currently learning: Space System Security.
 - I’m looking to collaborate on: [Hands on VAPT]
