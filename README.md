@@ -2,11 +2,10 @@
 
 ### Hi there, I'm [Your Name]!
 
-- I’m currently working on: [Your Projects or Interests]
-- I’m currently learning: [Tech/Skills]
-- I’m looking to collaborate on: [Your Areas of Interest]
-- Ask me about: [Topics you're good at]
-- How to reach me: [Email, LinkedIn, etc.]
-- Fun fact: [Fun Personal Fact]
+- I’m currently working on: Ubuntu Os Hardining Tool.
+- I’m currently learning: Space System Security.
+- I’m looking to collaborate on: [Hands on VAPT]
+- Ask me about: Securing an Linus base System.
+- kimehasukadorji65@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzkinleydorji&show_icons=true&theme=radical)
