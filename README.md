@@ -2,7 +2,7 @@
 - I’m currently working on: Ubuntu Os Hardining Tool.
 - I’m currently learning: Space System Security.
 - I’m looking to collaborate on: Hands on VAPT.
-- Ask me about: Securing an Linus base System.
+- Ask me about: Securing an Linux base System.
 - Email: kdorji3031@gmail.com
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzkinleydorji&show_icons=true&theme=radical)
